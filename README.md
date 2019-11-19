@@ -6,4 +6,4 @@ There are relatively few analytic solutions to Schrodinger's equation so it is o
 
 They are first employed in order to solve Schrodinger's equation for the one-dimensional infinite potential, then they are used to further study the case of a linear potential, and various situations such as the double square well (quadratic and quartic) potentials. Later in the project, time dependence for a superposition of stationary states is also studied, for the case of an ammonia molecule, using the matrix approach.
 
-The full project report contains all the necessary background information and details, equations, methods used, results and conclussions. The MATLAB script files contain code for the various cases considered, as detailed in their descriptions, and include an appropriate level of commenting and documentation.
+The full project report contains all the necessary background information and details, equations, methods used, results and conclusions. The MATLAB script files contain code for the various cases considered, as detailed in their descriptions, and include an appropriate level of commenting and documentation.
